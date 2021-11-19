@@ -29,3 +29,7 @@ body {
     background-color: rgb(233, 233, 233);
     height: 1px;
 }
+
+.btn-buy {
+    background-color: rgb(109,29,114);
+}
