@@ -25,11 +25,14 @@ body {
 .hr-lines {
     min-width: 100%;
     margin-top: 0;
-    
     background-color: rgb(233, 233, 233);
     height: 1px;
 }
 
 .btn-buy {
     background-color: rgb(109,29,114);
+}
+
+.bi-circle {
+    font-weight: bolder;
 }
