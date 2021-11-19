@@ -1,0 +1,19 @@
+.upper-line {
+  width: 100%;
+  height: 5px;
+  margin-top: 0;
+  background: linear-gradient(90deg, rgba(132,0,255,1) 0%, rgba(48,0,102,1) 10%, rgba(132,0,255,1) 20%, rgba(48,0,102,1) 30%, rgba(132,0,255,1) 40%, rgba(48,0,102,1) 50%, rgba(132,0,255,1) 60%, rgba(48,0,102,1) 70%, rgba(132,0,255,1) 80%, rgba(48,0,102,1) 90%, rgba(132,0,255,1) 100%);
+}
+
+.sign-in {
+    color: rgb(222,138,229) !important
+}
+
+.navbar-nav {
+    font-weight: 600;
+}
+
+#logo {
+    background-color: white;
+    border-radius: 3px;
+}
